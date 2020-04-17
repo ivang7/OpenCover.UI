@@ -2,7 +2,6 @@
 // This source code is released under the MIT License; Please read license.md file for more details.
 //
 using Microsoft.VisualStudio;
-using Microsoft.VisualStudio.Platform.WindowManagement;
 using Microsoft.VisualStudio.Shell;
 using Microsoft.VisualStudio.Shell.Interop;
 using Microsoft.VisualStudio.Text.Editor;
